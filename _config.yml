@@ -3,7 +3,8 @@ description:
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-cayman
-github: 
-  repository_url: https://github.com/amyu
+github:
+  zip_url: 
+  another_url: https://github.com/amyu
 gems:
   - jekyll-mentions
