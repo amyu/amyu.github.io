@@ -1,9 +1,7 @@
 # Yuki Mima
 
 ### Profile
-* Birthday : Dec 13, 1993 (age 22)
-* Location : Suginami, Tokyo
-* Company  : Recruit Holdings Co.,Ltd.
+* Company  : Recruit Marketing Partners Co.,Ltd.
 
 ### Skills
 * Android
@@ -21,11 +19,12 @@
 * [Facebook](https://www.facebook.com/mima.yuki.7)
 * [Hatena blog](http://amyu.hatenadiary.com/)
 * [Qiita](http://qiita.com/amyu_san)
-* [Youtube](https://www.youtube.com/channel/UCM0msX7jrtrkiVInYPY095g)
 * [SlideShare](http://www.slideshare.net/mimayuki7)
 * [E-mail](mailto:amyu051213@gmail.com)
 
 ### Products
+* [StackCardLayoutManager](https://github.com/amyu/StackCardLayoutManager)  
+![](https://github.com/amyu/StackCardLayoutManager/blob/master/sc/screen.gif?raw=true?raw=true)  
 * [WaveSwipeRefreshLayout](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout)  
 ![](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout/blob/master/sc/animation.gif?raw=true)  
 * [BeerSwipeRefreshLayout](https://github.com/recruit-lifestyle/BeerSwipeRefresh)  
