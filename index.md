@@ -1,7 +1,7 @@
 # Yuki Mima
 
 ### Profile
-* Company  : Recruit Marketing Partners Co.,Ltd.
+* Company  : Recruit Co.,Ltd.
 
 ### Skills
 * Android
